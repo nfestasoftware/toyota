@@ -7,3 +7,4 @@ testing git merge and rebase
 adding a second test merge and rebase line
 adding a third line of test
 testing git cherry-pick
+adding second line for testing cherry-pick
