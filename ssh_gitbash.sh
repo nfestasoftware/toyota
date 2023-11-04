@@ -7,4 +7,5 @@ echo 'testing completed.'
 echo 'we have successfully completed gitbash ssh access to GitHub'
 echo 'Trust yoo all are excited completing git/github seession'
 echo 'Get ready as we will start seeing github intergrating with other tools'
+echo 'This will be experienced during our next session traing'
 echo today is `date`
